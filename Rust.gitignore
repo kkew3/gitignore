@@ -20,3 +20,5 @@ target/
 .vscode/
 .zed/
 .*.swp
+
+.DS_Store
